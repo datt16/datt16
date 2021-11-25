@@ -5,6 +5,16 @@ Here are some ideas to get you started:
 -->
 
 
+
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=datt16&show_icons=true&count_private=true">
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datt16&hide=Jupyter%20Notebook">
+  </a>
+
 ### 🔭 作業中のリポジトリ
   - [MONEA](https://github.com/datt16/datt16/MONEA) : Nuxt.js, firebase使用
 
