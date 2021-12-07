@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 
 ### 🌱 勉強中
-- React.js
-- Vue.js
+- React.js, Vue.js
+- Kotlin(Androidアプリ開発)
 
 ### ✨ 興味がある事
 - VR開発 ... unity
