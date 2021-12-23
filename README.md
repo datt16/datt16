@@ -10,20 +10,21 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datt16&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
-### 🔭 作業中のリポジトリ
-  - [MONEA](https://github.com/datt16/datt16/MONEA) : Nuxt.js, firebase使用
+### 🔭 アクティブなリポジトリ:Active Repos
+  - [MONEA](https://github.com/datt16/MONEA) : 複数台のセンサーを連携させて、部屋全体をモニタリングできるシステム
+  - [TaAM](https://github.com/datt16/TaAM) : 時間割 & 出席記録アプリ
 
 
-### 🌱 勉強中
-- React.js, Vue.js
+### 🌱 勉強中:What learning now?
+- Vue.js
 - Kotlin(Androidアプリ開発)
 
-### ✨ 興味がある事
+### ✨ 興味がある事:What interested in?
 - VR開発 ... unity
 - クロスプラットフォーム開発 ... Flutter
 - CSSアニメーション
 - UI/UXデザイン
 
-### 👍 できること
+### 👍 できること:What Can I do?
 - フロントエンド開発(Vue2, React)
 - Pythonを使った基本的なデータ処理
