@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datt16&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
-
+ 
+ 
 ### 🔭 アクティブなリポジトリ
   - [TaAM](https://github.com/datt16/TaAM) : 時間割 & 出席記録アプリ
 
@@ -18,12 +19,10 @@ Here are some ideas to get you started:
 -　Android　Jetpack
 -　Python: FastAPI
 
-### ✨ 興味がある事:What interested in?
+
+### ✨ 興味がある事
 - VR開発 ... unity
 - クロスプラットフォーム開発 ... Flutter --- ネイティブから勉強してみることに
 - CSSアニメーション
 - UI/UXデザイン
 
-### 👍 できること:What Can I do?
-- フロントエンド開発(Vue2, React)
-- Pythonを使った基本的なデータ処理
