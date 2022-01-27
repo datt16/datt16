@@ -10,18 +10,17 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datt16&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
-### 🔭 アクティブなリポジトリ:Active Repos
-  - [MONEA](https://github.com/datt16/MONEA) : 複数台のセンサーを連携させて、部屋全体をモニタリングできるシステム
+### 🔭 アクティブなリポジトリ
   - [TaAM](https://github.com/datt16/TaAM) : 時間割 & 出席記録アプリ
 
 
-### 🌱 勉強中:What learning now?
-- Vue.js
-- Kotlin(Androidアプリ開発)
+### 🌱 勉強中の技術
+-　Android　Jetpack
+-　Python: FastAPI
 
 ### ✨ 興味がある事:What interested in?
 - VR開発 ... unity
-- クロスプラットフォーム開発 ... Flutter
+- クロスプラットフォーム開発 ... Flutter --- ネイティブから勉強してみることに
 - CSSアニメーション
 - UI/UXデザイン
 
