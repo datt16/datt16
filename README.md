@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 
 ### 🌱 勉強中の技術
--　Android　Jetpack
--　Python: FastAPI
+- Android (Jetpack)
+- Python: FastAPI
 
 
 ### ✨ 興味がある事
