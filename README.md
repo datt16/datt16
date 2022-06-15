@@ -12,17 +12,16 @@ Here are some ideas to get you started:
  
  
 ### 🔭 アクティブなリポジトリ
-  - [TaAM](https://github.com/datt16/TaAM) : 時間割 & 出席記録アプリ
+  - ~~[TaAM](https://github.com/datt16/TaAM) : 時間割 & 出席記録アプリ~~ : 諸事情により保留
 
 
 ### 🌱 勉強中の技術
-- Android (Jetpack)
-- Python: FastAPI
+- Android (kotlin) ... ComposeによるUI構築から、少しずつアーキテクチャやロジックの勉強も進めています
+- Web (React, Babylon.js) ... Webで動く簡易3Dエディタのようなものを開発中です
 
 
-### ✨ 興味がある事
-- VR開発 ... unity
-- クロスプラットフォーム開発 ... Flutter --- ネイティブから勉強してみることに
-- CSSアニメーション
+### ✨ 興味がある事 | いつかやってみたいこと
+- VR開発 ... Unity, Babylon.js, Three.js
+- クロスプラットフォーム開発 ... Flutter, React Native
+- iOSネイティブ開発
 - UI/UXデザイン
-
