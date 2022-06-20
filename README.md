@@ -9,8 +9,15 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datt16&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=datt16&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datt16&count_private=true&hide=Jupyter NoteBook" />
+</a>
  
- 
+<!--  
 ### 🔭 アクティブなリポジトリ
   - ~~[TaAM](https://github.com/datt16/TaAM) : 時間割 & 出席記録アプリ~~ : 諸事情により保留
 
@@ -25,3 +32,4 @@ Here are some ideas to get you started:
 - クロスプラットフォーム開発 ... Flutter, React Native
 - iOSネイティブ開発
 - UI/UXデザイン
+ -->
